@@ -13,7 +13,6 @@ Here are some of my projects:
 ### [WarpBeat](https://github.com/himoN7/WarpBeat)
 A project aimed at .Net MAUI health monitoring app.
 
-
 ## Get in Touch
 - 📫 You can reach me at [my email](mailto:himpire@outlook.com).
 - 🌐 Check out my [ORCID profile](https://orcid.org/0000-0003-1051-3080).
