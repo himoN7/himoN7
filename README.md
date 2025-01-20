@@ -10,17 +10,12 @@ Welcome to my GitHub profile! I'm a passionate .NET developer and UI/Graphic Des
 ## Projects
 Here are some of my projects:
 
-### [Waxing](https://github.com/himoN7/Waxing)
-A project focused on...
-
 ### [WarpBeat](https://github.com/himoN7/WarpBeat)
-A project aimed at...
+A project aimed at .Net MAUI health monitoring app.
 
-### [TENG-zahraSh](https://github.com/ZarShaz/TENG-zahraSh)
-A collaborative project...
 
 ## Get in Touch
-- 📫 You can reach me at [my email](mailto:your-email@example.com).
+- 📫 You can reach me at [my email](mailto:himpire@outlook.com).
 - 🌐 Check out my [ORCID profile](https://orcid.org/0000-0003-1051-3080).
 
 ## Contribution Graph
