@@ -33,7 +33,7 @@ Hamed Rezaei obtained his B.Sc. and M.Sc. degrees in Textile Engineering from Is
 <table style="border: 1px solid #dcdcdc; border-radius: 16px; overflow: hidden; background: linear-gradient(135deg, #00bcf2, #0078d4); color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; width: 100%; margin: 0 auto;">
   <tr>
     <td style="background: #0078d4; padding: 15px; text-align: center; font-size: 20px; border-top-left-radius: 16px; border-top-right-radius: 16px;">
-      Sincerely yours
+     Quick Contact Card
     </td>
   </tr>
   <tr>
