@@ -18,8 +18,7 @@ A project aimed at .Net MAUI health monitoring app.
 - 🌐 Check out my [ORCID profile](https://orcid.org/0000-0003-1051-3080).
 
 ## Contribution
-![Contribution Graph](://github.comimoN7/hN7/blob/main/contribution-graph.png)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himon7&bg_color=ffffff&color=000000&line=006eff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Fun Stuff
 - 🎨 I love experimenting with new design tools and techniques.
