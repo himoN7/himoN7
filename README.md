@@ -17,8 +17,9 @@ A project aimed at .Net MAUI health monitoring app.
 - 📫 You can reach me at [my email](mailto:himpire@outlook.com).
 - 🌐 Check out my [ORCID profile](https://orcid.org/0000-0003-1051-3080).
 
-## Contribution Graph
-![Contribution Graph](https://github.com/himoN7/himoN7/blob/main/contribution-graph.png)
+## Contribution
+![Contribution Graph](://github.comimoN7/hN7/blob/main/contribution-graph.png)
+
 
 ## Fun Stuff
 - 🎨 I love experimenting with new design tools and techniques.
