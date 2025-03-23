@@ -7,6 +7,35 @@ Welcome to my GitHub profile! I'm a passionate .NET developer and UI/Graphic Des
 - 👀 I’m interested in creating intuitive and visually appealing user interfaces.
 - ⚡ Fun fact: I'm a UI and Graphic Designer.
 
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; background-color: #f9f9f9; max-width: 400px; margin: auto;">
+    <h2 style="text-align: center; margin-bottom: 10px;">Hamed Rezaei Adaryani</h2>
+    <p style="text-align: center; font-size: 14px; margin-bottom: 20px;">MSc. Graduate in Textile Engineering<br>Department of Textile Engineering<br>Isfahan University of Technology</p>
+    <div style="text-align: center;">
+        <a href="mailto:h.rezaei@alumni.iut.ac.ir">
+            <img src="https://img.shields.io/badge/Alumni%20Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Alumni Email">
+        </a>
+        <a href="mailto:hamedrezaei.adaryani@outlook.com">
+            <img src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+        </a>
+        <a href="https://orcid.org/0000-0003-1051-3080">
+            <img src="https://img.shields.io/badge/ORCID-%230A0A0A.svg?&style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Profile">
+        </a>
+        <a href="https://sites.google.com/view/hamedrezaei/home">
+            <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+        </a>
+        <a href="https://www.linkedin.com/in/hamedrezaeia/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://www.instagram.com/hamedd.rezaeii/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://dev.to/himon7" target="_blank">
+            <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to">
+        </a>
+    </div>
+</div>
+
+
 ## Projects
 Here are some of my projects:
 
@@ -30,39 +59,6 @@ A project aimed at .Net MAUI health monitoring app.
 Hamed Rezaei obtained his B.Sc. and M.Sc. degrees in Textile Engineering from Isfahan University of Technology (IUT) in 2021 and 2024, respectively. During his master’s studies, he joined the Smart Textiles Lab at IUT, where he conducted research on AI-driven smart textiles, textile sensors, and electromagnetic interference (EMI) shielding. Hamed is also a skilled developer with expertise in .NET MAUI, .NET Desktop (WinUI and WPF), and Python Machine Learning. He is passionate about creating intuitive and visually appealing user interfaces and enjoys experimenting with new design tools and techniques.
 
 
-<p>Hamed Rezaei Adaryani</p>
-<p>MSc. Graduate in Textile Engineering</p>
-<p>Department of Textile Engineering</p>
-<p>Isfahan University of Technology</p>
-<p>Email:
-    <a href="mailto:h.rezaei@alumni.iut.ac.ir">
-        <img src="https://img.shields.io/badge/Alumni%20Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Alumni Email">
-    </a>
-    <a href="mailto:hamedrezaei.adaryani@outlook.com">
-        <img src="https://img.shields.io/badge/Outlook%20Email-%230077B5.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook Email">
-    </a>
-</p>
-<p>ORCID:
-    <a href="https://orcid.org/0000-0003-1051-3080">
-        <img src="https://img.shields.io/badge/ORCID-%230A0A0A.svg?&style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Profile">
-    </a>
-</p>
-<p>Portfolio:
-    <a href="https://sites.google.com/view/hamedrezaei/home">
-        <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
-    </a>
-</p>
-<p>Connect:
-    <a href="https://www.linkedin.com/in/hamedrezaeia/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/hamedd.rezaeii/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://dev.to/himon7" target="_blank">
-        <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to">
-    </a>
-</p>
 
 
 
