@@ -2,117 +2,46 @@
 
 <sub><b>WELCOME TO</b></sub>
 
-# Hamed Rezaei Adaryani
+<h1>Hamed Rezaei Adaryani</h1>
 
-## Let the <code>@ideas</code> flow
+<h3>Design-minded .NET developer building calm, useful interfaces.</h3>
 
-<br>
-
-<a href="https://github.com/himoN7"><img src="https://komarev.com/ghpvc/?username=himoN7&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="Profile views"></a>
-<a href="https://sites.google.com/view/hamedrezaei/home"><img src="https://img.shields.io/badge/Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/hamedrezaeia/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/himon7"><img src="https://img.shields.io/badge/DEV.to-242424?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://orcid.org/0000-0003-1051-3080"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<p>
+  <a href="https://sites.google.com/view/hamedrezaei/home"><img src="https://img.shields.io/badge/Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/hamedrezaeia/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0003-1051-3080"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+</p>
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Design</h3>
-      <p>Dive into UI systems, visual design, typography, layout, iconography, and Fluent-inspired product surfaces.</p>
-      <a href="#design-language">
-        <img src="https://img.shields.io/badge/Get%20started-Design-0078D4?style=for-the-badge&logo=figma&logoColor=white" alt="Get started with design">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Develop</h3>
-      <p>Find .NET MAUI, WinUI, WPF, Python ML, smart textiles research, and app engineering experiments.</p>
-      <a href="#components">
-        <img src="https://img.shields.io/badge/Get%20started-Develop-242424?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Get started with development">
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-## Fluent Profile Shell
+## Story
 
-<table>
-  <tr>
-    <td width="24%" valign="top">
-      <b>Navigation</b><br><br>
-      <a href="#design-language">Design language</a><br>
-      <a href="#ux-framework">UX framework</a><br>
-      <a href="#components">Components</a><br>
-      <a href="#featured-work">Featured work</a><br>
-      <a href="#github-dashboard">Dashboard</a><br>
-      <a href="#connect">Connect</a>
-    </td>
-    <td width="76%" valign="top">
-      <b>Overview</b>
-      <h3>Profile as a Fluent-style home page</h3>
-      <p>
-        I design and build calm, useful software across <b>.NET MAUI</b>, <b>WinUI</b>, <b>WPF</b>, and <b>Python ML</b>.
-        My work sits between software engineering, UI systems, graphic design, and smart textiles research.
-      </p>
-      <p>
-        MSc graduate in Textile Engineering from Isfahan University of Technology, with research experience in
-        AI-driven smart textiles, textile sensors, and electromagnetic interference shielding.
-      </p>
-    </td>
-  </tr>
-</table>
+I work at the meeting point of software, interface design, and applied research. My background in Textile Engineering shaped the way I think about systems: material matters, structure matters, and the best experience is often the one that feels simple after careful engineering.
 
-## Design Language
+Today, I focus on .NET applications, Windows UI, cross-platform app ideas, and machine learning workflows. I care about products that are readable, intentional, and easy to trust.
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <h3>Color</h3>
-      <img src="https://img.shields.io/badge/Brand-0078D4?style=for-the-badge" alt="Fluent blue">
-      <img src="https://img.shields.io/badge/Cyan-00B7C3?style=for-the-badge" alt="Cyan">
-      <img src="https://img.shields.io/badge/Violet-7F52FF?style=for-the-badge" alt="Violet">
-    </td>
-    <td width="25%" align="center">
-      <h3>Material</h3>
-      <img src="https://img.shields.io/badge/Glass-soft-ffffff?style=for-the-badge&labelColor=F3F2F1&color=ffffff" alt="Glass material">
-      <img src="https://img.shields.io/badge/Surface-layered-F3F2F1?style=for-the-badge" alt="Layered surface">
-    </td>
-    <td width="25%" align="center">
-      <h3>Shape</h3>
-      <img src="https://img.shields.io/badge/Rounded-20px-605E5C?style=for-the-badge" alt="Rounded corners">
-      <img src="https://img.shields.io/badge/Cards-elevated-8A8886?style=for-the-badge" alt="Elevated cards">
-    </td>
-    <td width="25%" align="center">
-      <h3>Motion</h3>
-      <img src="https://img.shields.io/badge/Flow-subtle-00B7C3?style=for-the-badge" alt="Subtle flow">
-      <img src="https://img.shields.io/badge/Focus-clear-0F6CBD?style=for-the-badge" alt="Clear focus">
-    </td>
-  </tr>
-</table>
-
-## UX Framework
+## What I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Design</h3>
+      <h3>Design Systems For Real Apps</h3>
       <p>
-        Visual systems, Figma-oriented thinking, typography, layout, iconography, and graphics for interfaces that feel clear before they feel complex.
+        Interfaces with clear hierarchy, consistent spacing, restrained color, and accessible visual rhythm.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/UI%20Design-7F52FF?style=flat-square&logo=figma&logoColor=white" alt="UI Design">
-        <img src="https://img.shields.io/badge/Graphic%20Design-D83B01?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Graphic Design">
-        <img src="https://img.shields.io/badge/Design%20Tokens-0F6CBD?style=flat-square&logo=microsoft&logoColor=white" alt="Design Tokens">
+        <img src="https://img.shields.io/badge/Fluent%20Principles-0F6CBD?style=flat-square&logo=microsoft&logoColor=white" alt="Fluent principles">
+        <img src="https://img.shields.io/badge/UI%20Design-7F52FF?style=flat-square&logo=figma&logoColor=white" alt="UI design">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Develop</h3>
+      <h3>Native And Cross-Platform Software</h3>
       <p>
-        Cross-platform .NET applications, Windows desktop experiences, health app concepts, and ML-driven research tooling.
+        .NET MAUI, WinUI, WPF, and Python tools shaped with a designer's eye and an engineer's discipline.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
         <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI">
         <img src="https://img.shields.io/badge/WinUI-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="WinUI">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -121,58 +50,44 @@
   </tr>
 </table>
 
-## Components
+## Design Principles
 
-<div align="center">
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Clarity</h3>
+      <p>Reduce noise. Lead with the information people need first.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Depth</h3>
+      <p>Use cards, layers, and spacing to make structure visible.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Material</h3>
+      <p>Prefer soft surfaces, neutral tones, and purposeful accent color.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Motion</h3>
+      <p>Make interaction feel guided, not decorative.</p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,python,tensorflow,git,github,figma,ai,ps&theme=light" alt="Skill icons">
-
-</div>
+## Current Focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Avatar</h3>
-      <p><b>Hamed Rezaei Adaryani</b><br>MSc Textile Engineering<br>Developer and designer</p>
+      <h3>Product UI</h3>
+      <p>Designing interfaces that feel modern, calm, and practical.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Badge</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Research-Smart%20Textiles-00B7C3?style=for-the-badge" alt="Smart textiles">
-        <img src="https://img.shields.io/badge/App%20UI-Fluent%20Inspired-0078D4?style=for-the-badge" alt="Fluent inspired">
-      </p>
+      <h3>Health Apps</h3>
+      <p>Exploring cross-platform health monitoring experiences with .NET MAUI.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Progress</h3>
-      <p>
-        <img src="https://geps.dev/progress/90?successColor=0078D4" alt=".NET progress">
-        <br>.NET and Windows UI
-      </p>
-      <p>
-        <img src="https://geps.dev/progress/78?successColor=00B7C3" alt="Design progress">
-        <br>UI systems and visual design
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Card</h3>
-      <p>Interface-first engineering with attention to hierarchy, spacing, accessible contrast, and useful motion.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Tag Picker</h3>
-      <p>
-        <code>.NET MAUI</code>
-        <code>WinUI</code>
-        <code>WPF</code>
-        <code>Python ML</code>
-        <code>Figma</code>
-        <code>Smart Textiles</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Switch</h3>
-      <p><b>Design</b> on, <b>Develop</b> on, <b>Research</b> on.</p>
+      <h3>Smart Textiles</h3>
+      <p>Connecting AI, sensors, and textile research into usable digital workflows.</p>
     </td>
   </tr>
 </table>
@@ -181,37 +96,35 @@
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <h3><a href="https://github.com/himoN7/WarpBeat">WarpBeat</a></h3>
       <p>
-        A .NET MAUI health monitoring app concept shaped around readable visuals, focused interactions, and cross-platform delivery.
+        A .NET MAUI health monitoring app concept. The goal is simple: make health data easier to read, act on, and trust across devices.
       </p>
       <a href="https://github.com/himoN7/WarpBeat">
-        <img src="https://img.shields.io/badge/Open%20repository-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Open WarpBeat repository">
+        <img src="https://img.shields.io/badge/View%20project-0F6CBD?style=for-the-badge&logo=github&logoColor=white" alt="View WarpBeat project">
       </a>
     </td>
-    <td width="42%" align="center">
+    <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=himoN7&repo=WarpBeat&theme=transparent&hide_border=true&title_color=0F6CBD&text_color=323130&icon_color=00B7C3" alt="WarpBeat repository card">
     </td>
   </tr>
 </table>
 
-## GitHub Dashboard
+## Toolkit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himoN7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0F6CBD&text_color=323130&icon_color=00B7C3" alt="GitHub stats">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=himoN7&theme=transparent&hide_border=true&ring=0078D4&fire=FFB900&currStreakLabel=0F6CBD&sideLabels=323130&currStreakNum=323130&sideNums=323130" alt="GitHub streak">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,python,tensorflow,git,github,figma,ai,ps&theme=light" alt="C#, .NET, Visual Studio, VS Code, Python, TensorFlow, Git, GitHub, Figma, Illustrator, Photoshop">
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himoN7&layout=compact&theme=transparent&hide_border=true&title_color=0F6CBD&text_color=323130" alt="Top languages">
+## GitHub Pulse
 
-<br><br>
+<div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himoN7&bg_color=FAF9F8&color=323130&line=0078D4&point=00B7C3&area=true&area_color=0078D4&hide_border=true&custom_title=Contribution%20Flow" alt="Contribution activity graph">
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=himoN7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0F6CBD&text_color=323130&icon_color=00B7C3" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himoN7&layout=compact&theme=transparent&hide_border=true&title_color=0F6CBD&text_color=323130" alt="Top languages">
 
 </div>
 
@@ -219,12 +132,12 @@
 
 <div align="center">
 
-<a href="mailto:hamedrezaei.adaryani@outlook.com"><img src="https://img.shields.io/badge/Outlook-hamedrezaei.adaryani%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook email"></a>
-<a href="mailto:h.rezaei@alumni.iut.ac.ir"><img src="https://img.shields.io/badge/IUT%20Alumni-h.rezaei%40alumni.iut.ac.ir-D83B01?style=for-the-badge&logo=gmail&logoColor=white" alt="IUT alumni email"></a>
-<a href="https://www.instagram.com/hamedd.rezaeii/"><img src="https://img.shields.io/badge/Instagram-hamedd.rezaeii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p>
+  <a href="mailto:hamedrezaei.adaryani@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook email"></a>
+  <a href="mailto:h.rezaei@alumni.iut.ac.ir"><img src="https://img.shields.io/badge/IUT%20Alumni-D83B01?style=for-the-badge&logo=gmail&logoColor=white" alt="IUT alumni email"></a>
+  <a href="https://www.instagram.com/hamedd.rezaeii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-<br><br>
-
-<sub>Fluent 2 inspired profile system. Built with GitHub-safe Markdown, typography, cards, badges, and visual README components. © 2026 Hamed</sub>
+<sub>Designed with Fluent-inspired clarity, calm surfaces, and purposeful hierarchy. © 2026 Hamed</sub>
 
 </div>
