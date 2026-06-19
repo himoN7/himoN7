@@ -1,65 +1,125 @@
-# Hi there, I'm Hamed! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate .NET developer and UI/Graphic Designer. Here's a bit about me and my work:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0078D4,45:7F52FF,100:00B7C3&text=Hamed%20Rezaei%20Adaryani&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=.NET%20Developer%20%7C%20UI%20Designer%20%7C%20Smart%20Textiles%20Researcher&descAlign=50&descAlignY=58&animation=fadeIn" alt="Hamed Rezaei Adaryani profile header">
 
-## At a Glance
-- 🌱 I’m currently learning and exploring new technologies in .NET.
-- 👀 I’m interested in creating intuitive and visually appealing user interfaces.
-- ⚡ Fun fact: I'm a UI and Graphic Designer.
+<a href="https://github.com/himoN7"><img src="https://komarev.com/ghpvc/?username=himoN7&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="Profile views"></a>
+<a href="https://sites.google.com/view/hamedrezaei/home"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/hamedrezaeia/"><img src="https://img.shields.io/badge/LinkedIn-106EBE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dev.to/himon7"><img src="https://img.shields.io/badge/DEV.to-111111?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://orcid.org/0000-0003-1051-3080"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; background-color: #f9f9f9; max-width: 400px; margin: auto;">
-    <h2 style="text-align: center; margin-bottom: 10px;">Hamed Rezaei Adaryani</h2>
-    <p style="text-align: center; font-size: 14px; margin-bottom: 20px;">MSc. Graduate in Textile Engineering<br>Department of Textile Engineering<br>Isfahan University of Technology</p>
-    <div style="text-align: center;">
-        <a href="mailto:h.rezaei@alumni.iut.ac.ir">
-            <img src="https://img.shields.io/badge/Alumni%20Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Alumni Email">
-        </a>
-        <a href="mailto:hamedrezaei.adaryani@outlook.com">
-            <img src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-        </a>
-        <a href="https://orcid.org/0000-0003-1051-3080">
-            <img src="https://img.shields.io/badge/ORCID-%230A0A0A.svg?&style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Profile">
-        </a>
-        <a href="https://sites.google.com/view/hamedrezaei/home">
-            <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/hamedrezaeia/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://www.instagram.com/hamedd.rezaeii/" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-        <a href="https://dev.to/himon7" target="_blank">
-            <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to">
-        </a>
-    </div>
 </div>
 
+## Fluent Snapshot
 
-## Projects
-Here are some of my projects:
+> Building calm, useful software with the same priorities I bring to design: clarity, depth, motion, material, and human-centered details.
 
-### [WarpBeat](https://github.com/himoN7/WarpBeat)
-A project aimed at .Net MAUI health monitoring app.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Developer Mode</h3>
+      <p>
+        I build with <b>.NET MAUI</b>, <b>WinUI</b>, <b>WPF</b>, and <b>Python ML</b>, with a focus on polished interfaces and practical product experiences.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Research Mode</h3>
+      <p>
+        MSc graduate in Textile Engineering from Isfahan University of Technology, researching AI-driven smart textiles, textile sensors, and EMI shielding.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Design Mode</h3>
+      <p>
+        UI and graphic designer interested in Fluent-style systems: clean hierarchy, rounded surfaces, subtle depth, and purposeful motion.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Currently Exploring</h3>
+      <p>
+        Modern .NET, cross-platform health apps, intelligent textile interfaces, and developer tools that feel as good as they work.
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Get in Touch
-- 📫 You can reach me at [my email](mailto:himpire@outlook.com).
-- 🌐 Check out my [ORCID profile](https://orcid.org/0000-0003-1051-3080).
+## Visual Stack
 
-## Contribution
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himon7&bg_color=ffffff&color=000000&line=006eff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
-## Fun Stuff
-- 🎨 I love experimenting with new design tools and techniques.
-- 🎮 In my free time, I enjoy playing video games and exploring new worlds.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,python,tensorflow,git,github,figma,ai,ps&theme=light" alt="Skill icons">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI">
+<img src="https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="WinUI">
+<img src="https://img.shields.io/badge/WPF-00B7C3?style=for-the-badge&logo=windows&logoColor=white" alt="WPF">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB900?style=for-the-badge&logo=tensorflow&logoColor=111111" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Fluent%20Design-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fluent Design">
+<img src="https://img.shields.io/badge/UI%20Design-7F52FF?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design">
+
+</div>
+
+## Featured Project
+
+<table>
+  <tr>
+    <td width="65%">
+      <h3><a href="https://github.com/himoN7/WarpBeat">WarpBeat</a></h3>
+      <p>
+        A .NET MAUI health monitoring app concept shaped around readable visuals, focused interactions, and cross-platform delivery.
+      </p>
+      <p>
+        <a href="https://github.com/himoN7/WarpBeat">
+          <img src="https://img.shields.io/badge/View%20Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View WarpBeat repository">
+        </a>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=himoN7&repo=WarpBeat&theme=transparent&hide_border=true&title_color=0078D4&text_color=323130&icon_color=00B7C3" alt="WarpBeat repository card">
+    </td>
+  </tr>
+</table>
+
+## GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himoN7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0078D4&text_color=323130&icon_color=00B7C3" alt="GitHub stats">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=himoN7&theme=transparent&hide_border=true&ring=0078D4&fire=FFB900&currStreakLabel=0078D4&sideLabels=323130&currStreakNum=323130&sideNums=323130" alt="GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himoN7&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=323130" alt="Top languages">
+
+<br><br>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himoN7&bg_color=ffffff&color=323130&line=0078D4&point=00B7C3&area=true&area_color=0078D4&hide_border=true&custom_title=Contribution%20Flow" alt="Contribution activity graph">
+</a>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:hamedrezaei.adaryani@outlook.com"><img src="https://img.shields.io/badge/Outlook-hamedrezaei.adaryani%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook email"></a>
+<a href="mailto:h.rezaei@alumni.iut.ac.ir"><img src="https://img.shields.io/badge/IUT%20Alumni-h.rezaei%40alumni.iut.ac.ir-D83B01?style=for-the-badge&logo=gmail&logoColor=white" alt="IUT alumni email"></a>
+<a href="https://www.instagram.com/hamedd.rezaeii/"><img src="https://img.shields.io/badge/Instagram-hamedd.rezaeii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
 
 ---
 
-## Biography
-Hamed Rezaei obtained his B.Sc. and M.Sc. degrees in Textile Engineering from Isfahan University of Technology (IUT) in 2021 and 2024, respectively. During his master’s studies, he joined the Smart Textiles Lab at IUT, where he conducted research on AI-driven smart textiles, textile sensors, and electromagnetic interference (EMI) shielding. Hamed is also a skilled developer with expertise in .NET MAUI, .NET Desktop (WinUI and WPF), and Python Machine Learning. He is passionate about creating intuitive and visually appealing user interfaces and enjoys experimenting with new design tools and techniques.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00B7C3,55:0078D4,100:7F52FF" alt="Profile footer">
 
+<sub>Designed with Fluent-inspired color, depth, clarity, and motion. © 2026 Hamed</sub>
 
-
-
-© 2025 Hamed
+</div>
