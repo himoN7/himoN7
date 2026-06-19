@@ -7,7 +7,7 @@
 <h3>Design-minded .NET developer building calm, useful interfaces.</h3>
 
 <p>
-  <a href="https://sites.google.com/view/hamedrezaei/home"><img src="https://img.shields.io/badge/Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://rezephyr.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/hamedrezaeia/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0000-0003-1051-3080"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
