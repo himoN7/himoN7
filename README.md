@@ -101,7 +101,7 @@ Today, I focus on .NET applications, Windows UI, cross-platform app ideas, and m
       <p>
         A .NET MAUI health monitoring app concept. The goal is simple: make health data easier to read, act on, and trust across devices.
       </p>
-      <a href="https://github.com/himoN7/WarpBeat">
+      <a href="https://rezephyr.figma.site">
         <img src="https://img.shields.io/badge/View%20project-0F6CBD?style=for-the-badge&logo=github&logoColor=white" alt="View WarpBeat project">
       </a>
     </td>
