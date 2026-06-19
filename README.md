@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/fluent-profile-hero.svg" alt="Fluent 2 inspired GitHub profile hero for Hamed Rezaei Adaryani" width="100%">
+<sub><b>WELCOME TO</b></sub>
+
+# Hamed Rezaei Adaryani
+
+## Let the <code>@ideas</code> flow
 
 <br>
 
@@ -11,6 +15,25 @@
 <a href="https://orcid.org/0000-0003-1051-3080"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 
 </div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Design</h3>
+      <p>Dive into UI systems, visual design, typography, layout, iconography, and Fluent-inspired product surfaces.</p>
+      <a href="#design-language">
+        <img src="https://img.shields.io/badge/Get%20started-Design-0078D4?style=for-the-badge&logo=figma&logoColor=white" alt="Get started with design">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Develop</h3>
+      <p>Find .NET MAUI, WinUI, WPF, Python ML, smart textiles research, and app engineering experiments.</p>
+      <a href="#components">
+        <img src="https://img.shields.io/badge/Get%20started-Develop-242424?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Get started with development">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Fluent Profile Shell
 
@@ -26,8 +49,8 @@
       <a href="#connect">Connect</a>
     </td>
     <td width="76%" valign="top">
-      <b>Welcome to Hamed</b>
-      <h3>Let the <code>@ideas</code> flow</h3>
+      <b>Overview</b>
+      <h3>Profile as a Fluent-style home page</h3>
       <p>
         I design and build calm, useful software across <b>.NET MAUI</b>, <b>WinUI</b>, <b>WPF</b>, and <b>Python ML</b>.
         My work sits between software engineering, UI systems, graphic design, and smart textiles research.
@@ -202,6 +225,6 @@
 
 <br><br>
 
-<sub>Fluent 2 inspired profile system. Built with GitHub-safe Markdown, SVG, cards, badges, and visual README components. © 2026 Hamed</sub>
+<sub>Fluent 2 inspired profile system. Built with GitHub-safe Markdown, typography, cards, badges, and visual README components. © 2026 Hamed</sub>
 
 </div>
