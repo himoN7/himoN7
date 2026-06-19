@@ -105,9 +105,7 @@ Today, I focus on .NET applications, Windows UI, cross-platform app ideas, and m
         <img src="https://img.shields.io/badge/View%20project-0F6CBD?style=for-the-badge&logo=github&logoColor=white" alt="View WarpBeat project">
       </a>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=himoN7&repo=WarpBeat&theme=transparent&hide_border=true&title_color=0F6CBD&text_color=323130&icon_color=00B7C3" alt="WarpBeat repository card">
-    </td>
+  
   </tr>
 </table>
 
